@@ -1,0 +1,4 @@
+.env/
+# (ou venv/, ou le nom que tu as donné à ton dossier d'environnement)
+__pycache__/
+*.pyc
