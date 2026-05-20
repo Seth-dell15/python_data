@@ -30,3 +30,9 @@ arr14 = np.array([4, 5, 6])
 arr15 = np.vstack((arr13, arr14))# stack along columns
 
 print(arr15)
+
+arr16 = np.array([1, 2, 3])
+arr17 = np.array([4, 5, 6])
+arr18 = np.dstack((arr16, arr17)) # stack along height/depth
+
+print(arr18)
